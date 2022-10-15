@@ -1,7 +1,7 @@
 <body>
 		<header>
 			<div class="caixa">
-				<h1>Hello, World</h1>
+				<h1>Hello! 😊</h1>
 
 <p>✵ 👋 Hi, I’m @gdaiside</p>
 <p>✵ 👀 I’m interested in JavaScript, Python, Angular</p>
