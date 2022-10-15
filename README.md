@@ -3,9 +3,10 @@
 			<div class="caixa">
 				<h1>Hello! 😊</h1>
 
-<p>✵ 👋 Hi, I’m @gdaiside</p>
-<p>✵ 👀 I’m interested in JavaScript, Python, Angular</p>
-<p>✵ 🌱 I’m currently learning HTML, JavaScript, Angular, CSS</p>
+<p>♡ 👋 Hi, I’m @gdaiside</p>
+<p>♡ 👀 I’m interested in JavaScript, Python, Angular</p>
+<p>♡ 🌱 I’m currently learning HTML, JavaScript, Angular, CSS</p>
+<p>♡ 💪  I'm trying to work on my profile day by day.</p>
 <!---
 gdaiside/gdaiside is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
