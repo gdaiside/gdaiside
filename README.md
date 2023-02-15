@@ -10,10 +10,15 @@
 <p>♡ 💪  I'm trying to work on my profile day by day</p>
 <p>♡ 📫 Talk to me here: gdai.side@gmail.com</p>
 
+##				
 				
+<div>
+<a href="https://github.com/gdaiside">
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=gdaiside&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gdaiside&layout=compact&langs_count=7&theme=dracula"/>
+</div>
+	
+##				
 				
 ![Snake animation](https://github.com/gdaiside/gdaiside/blob/output/github-contribution-grid-snake.svg)
-<!---
-gdaiside/gdaiside is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
