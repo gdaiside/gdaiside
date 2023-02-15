@@ -8,7 +8,6 @@
 <p>♡ 🌱 I’m currently learning HTML, JavaScript, Angular, CSS</p>
 <p>♡ 💘🎮 I felt in love with C++ and game development </p>	
 <p>♡ 💪  I'm trying to work on my profile day by day</p>
-<p>♡ 📫 Talk to me here: gdai.side@gmail.com</p>
 
 ##				
 				
