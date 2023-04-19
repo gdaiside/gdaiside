@@ -5,7 +5,7 @@
 
 <p>♡ 👋 Hi, I’m Diane, but you can just call me Di</p>
 <p>♡ 👀 I’m interested in JavaScript, Python, Angular, C++, and game development</p>
-<p>♡ 🌱 I’m currently learning HTML, JavaScript, Angular, CSS</p>
+<p>♡ 🌱 I’m currently learning HTML, JavaScript, CSS, C++</p>
 <p>♡ 💘🎮 I felt in love with C++ and game development </p>	
 <p>♡ 💪  I'm trying to work on my profile day by day</p>
 
